@@ -17,4 +17,4 @@ The data is certainly not clean, so please feel free to reach out to us, with an
 
 ## Answers
 
-The analysis was made in the [**main.ipynb notebook**](https://github.com/FranciscoGalan/suplari_challenge1/blob/main/main.ipynb).
+The analysis was made in the [**main.ipynb notebook**](https://nbviewer.jupyter.org/github/FranciscoGalan/suplari_challenge1/blob/main/main.ipynb).
